@@ -1,7 +1,7 @@
 # Multiply v5.0
 
 Плагин позволяет создавать таблицы умножения
-Для начала ознакомьтесь с  https://multiply.github.io/Multiply/.**
+Для начала ознакомьтесь с  [https://multiply.github.io/Multiply/](https://aominedai.github.io/modul_multiply/).**
 
 ## Быстрый старт
 
